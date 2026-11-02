@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "zopefoundation",
+  "repo": "MultiMapping",
+  "versions": [
+    {
+      "commit": "9f92fade6658c5fecb3b80a6ef1b02d6ec446b23",
+      "parsed_at": "2026-11-02T20:58:10.214606+00:00",
+      "filetree": "filetree/9f92fade6658c5fecb3b80a6ef1b02d6ec446b23.nq.gz",
+      "blobs": [
+        "blob/ca517f4eb0cec1c691c0c2b54cd5eb85e906f11b.nq.gz",
+        "blob/841db889d566fdf6c126334c1a02d84782d975b0.nq.gz",
+        "blob/e5a05b0b3a40889c4f797b786ebc8de931f2fff8.nq.gz",
+        "blob/d9eb3230aa0cdf123bde69e6cc8e7d791574890a.nq.gz",
+        "blob/354ba03b9d562fe2185f50ce4954d38b5ab5b105.nq.gz",
+        "blob/207fbd16c0e1663349846c7528f1e72694554392.nq.gz",
+        "blob/e1f9ad7b3b48377bfbfaa1b380c384ddea24060f.nq.gz",
+        "blob/79859e06010bf4967c5b4b044afea6ef39742938.nq.gz",
+        "blob/e4b867329e05886a4818f86b117fca2102bc84bf.nq.gz",
+        "blob/188120b692cc972bed5f7063baaa7ebd9dd5fcea.nq.gz",
+        "blob/f7d8f8387cc5cf9ad226e72d4661b47dbddd160c.nq.gz",
+        "blob/8a1cde635fcfe005cc4438d504940505395236a7.nq.gz",
+        "blob/fd46227c9191e99fff40e24d02b90ba866d11262.nq.gz",
+        "blob/a3df1ed2dc539d0590216374fb1488de65c3ecc6.nq.gz",
+        "blob/5578473625108fe8463e6ef678fafa484eabc02d.nq.gz",
+        "blob/75eb89ff13f9341c62cf248063755a1ea7f1f26c.nq.gz",
+        "blob/b3e09256097acee1f344272bb8b6151789d4e070.nq.gz",
+        "blob/59a266a4a6721a02dba7591e59cc0e0a068ea1b1.nq.gz",
+        "blob/7c88981e70016fa6fd2b97ea76f5378feef28d96.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
