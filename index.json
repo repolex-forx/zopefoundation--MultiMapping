@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "MultiMapping",
+  "versions": [
+    {
+      "commit": "9f92fade6658c5fecb3b80a6ef1b02d6ec446b23",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:00:05.239296+00:00"
+    }
+  ]
+}
