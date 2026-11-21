@@ -68,6 +68,30 @@
       ],
       "ast": [
         "aggregate/ast/92f6bdafb7fcdb2fe3a50852edf46f77f82fe05b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/92f6bdafb7fcdb2fe3a50852edf46f77f82fe05b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "extensionclass",
+          "ecosystem": "PYPI",
+          "version": "6.5.0",
+          "githubOrg": "zopefoundation",
+          "githubRepo": "ExtensionClass",
+          "githubUrl": "https://github.com/zopefoundation/ExtensionClass",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
