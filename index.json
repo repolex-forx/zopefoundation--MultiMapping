@@ -3,6 +3,11 @@
   "repo": "MultiMapping",
   "versions": [
     {
+      "commit": "92f6bdafb7fcdb2fe3a50852edf46f77f82fe05b",
+      "tag": "5.1",
+      "parsed_at": "2026-11-21T23:40:11.688496+00:00"
+    },
+    {
       "commit": "9f92fade6658c5fecb3b80a6ef1b02d6ec446b23",
       "tag": "",
       "parsed_at": "2026-11-02T21:00:05.239296+00:00"
